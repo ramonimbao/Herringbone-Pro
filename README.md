@@ -9,7 +9,7 @@
  |-|-|
  |1|ATmega32A 40 pin DIP|
  |1|40 pin DIP socket|
- |1|HRO-TYPE-C-M-12|
+ |1|USB4085-GF-A GCT|
  |1|500 mA polyfuse|
  |2|6mm momentary push buttons|
  |1|16 MHz quarz crystal|
