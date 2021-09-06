@@ -1,10 +1,8 @@
-# Herringbone
+# Herringbone Pro
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ### Through-hole 75% Keyboard
-
-<img src="https://i.imgur.com/VeYvPGy.jpg" alt="" width="800"/>
 
 ### Partslist
  |Count|Part|
@@ -22,7 +20,8 @@
  |2|1.5 kΩ resistor|
  |2|5.1 kΩ resistor|
  |2|3.6 V zener diode|
- |84|universal switching diode|
+ |86|universal switching diode|
+ |1|128x32 0.96" OLED|
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
