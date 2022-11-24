@@ -26,7 +26,9 @@
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-This design may be freely produced, modified, and manufactured for **PERSONAL USE ONLY** and may not be reproduced in physical form for public sale.
+This design may be freely produced, modified, and manufactured for **PERSONAL USE ONLY** and may not be reproduced in physical form for public sale, except in:
+
+- [42keebs.eu](https://42keebs.eu/shop/kits/with-discrete-mcu/herringbone-pro-75-ansi-iso-kit/)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
